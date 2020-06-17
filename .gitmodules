@@ -1,0 +1,4 @@
+[submodule "mashirozx/allow_cancel_journal"]
+	path = mashirozx/allow_cancel_journal
+	url = git@github.com:mashirozx/allow_cancel_journal.git
+	branch = 13.0.1.1
